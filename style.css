@@ -5,6 +5,10 @@
     --bluegrey: rgb(34, 41, 49);
 }
 
+body {
+    background-color: var(--bluegrey);
+}
+
 .header {
     overflow: hidden;
     background-color: var(--bluegrey);
@@ -52,4 +56,8 @@
       color: var(--babyblue);
   }
 
+  .container{
+      background-color: var(--bluegrey);
+      padding: 20px;
+  }
  
