@@ -60,4 +60,10 @@ body {
       background-color: var(--bluegrey);
       padding: 20px;
   }
+
+  .card {
+      background-color: var(--babyblue);
+      color: var(--bluegrey);
+      font-weight: bold;
+  }
  
