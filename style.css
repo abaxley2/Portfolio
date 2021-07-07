@@ -36,8 +36,20 @@
     background-color: var(--babyblue);
   }
 
+  .jumbotron-image {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: var(--babyblue);
+  }
+
   .about-me {
       padding: 40px;
+  }
+
+  .footer {
+      background-color: var(--bluegrey);
+      color: var(--babyblue);
   }
 
  
